@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-final/static/css/main.6202601f.css",
+    "main.js": "/portfolio-final/static/js/main.ed1af8ec.js",
+    "static/media/Rijo_Fullstack.pdf": "/portfolio-final/static/media/Rijo_Fullstack.b369f30a6ce2791335d2.pdf",
+    "static/media/me.jpg": "/portfolio-final/static/media/me.190f5391739c73a9f2a7.jpg",
+    "static/media/bookstore.png": "/portfolio-final/static/media/bookstore.9ccca64e16bf562c3108.png",
+    "index.html": "/portfolio-final/index.html",
+    "main.6202601f.css.map": "/portfolio-final/static/css/main.6202601f.css.map",
+    "main.ed1af8ec.js.map": "/portfolio-final/static/js/main.ed1af8ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6202601f.css",
+    "static/js/main.ed1af8ec.js"
+  ]
+}
